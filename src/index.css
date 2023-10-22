@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+svg.recharts-surface tspan {
+	font-size: 0.9rem !important;
+	color: black !important;
+	font-family:  Arial;
+}
+
+* {
+    scroll-behavior: smooth;
+}
